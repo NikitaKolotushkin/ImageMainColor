@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 from save import *
 
 
-img = Image.open("ps.jpg")
+img = Image.open("input_image.jpg")
 
 colors = []
 
