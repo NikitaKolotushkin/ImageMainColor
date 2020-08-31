@@ -19,4 +19,3 @@ for i in range(img.size[0]):
 print(c)
 
 new_image_resolution = 512, 512
-# new_img = Image.new("RGB", new_image_resolution, c).show()
