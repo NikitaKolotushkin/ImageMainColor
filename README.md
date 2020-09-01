@@ -9,7 +9,9 @@ The program that determines the predominant color in the image
 
 ## Execution example
 **Source Image**
+
 ![Input image](img/input_image.jpg)
 
 **Output Image**
+
 ![Output image](img/output_image.jpg) 
