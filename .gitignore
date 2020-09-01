@@ -1,6 +1,4 @@
 __pycache__/
 *.sw*
-*.jpg
-*.png
 *.webp
 test.py
