@@ -14,8 +14,6 @@ for i in range(img.size[0]):  # Go through pixels of width
     for j in range(img.size[1]):  # Go through pixels of height
         colors.append(img.getpixel((i, j)))  # Adding pixel colors to a list
         j += 1  # Move to the next pixel in height
-    c = list(Counter(colors).most_common(1))[0][0]
-    i += 1
-print(c)
+    i += 1  # Move to the next pixel in width
 
-new_image_resolution = 512, 512
+c = list(Counter(colors).most_common(1))[0][0]  # Determining the most common color

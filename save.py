@@ -5,4 +5,5 @@ from PIL import Image
 from main import *
 
 
-im = Image.new("RGB", new_image_resolution, color=c).save("output_image.jpg")
+new_image_resolution = 512, 512
+im = Image.new("RGB", new_image_resolution, color=c).save("output_image.jpg")  # Creating a new image
