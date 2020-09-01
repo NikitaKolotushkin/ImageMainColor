@@ -7,4 +7,6 @@ The program that determines the predominant color in the image
 3. Run the main.py file
 4. Check the result
 
-## Execution example 
+## Execution example
+![Input image](img/input_image.jpg)
+![Output image](img/output_image.jpg) 
