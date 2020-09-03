@@ -7,6 +7,8 @@ The program that determines the predominant color in the image
 3. Run the main.py file
 4. Check the result
 
+**Note:** the program outputs the **exact color value of each pixel**, excluding tints or shadows
+
 ## Execution example
 **Source Image**
 
